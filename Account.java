@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Account {
 
     double balance;
-    double prevTrans;
+    String prevTrans = "No Transaction Occured!";
     String customerName;
     String customerId;
 
@@ -16,14 +16,14 @@ public class Account {
     void deopsit(double amount) {
         if (amount != 0) {
             balance += amount;
-            prevTrans = amount;
+            prevTrans = "Deposited: " + amount;
         }
     }
 
     void withDraw(double amt) {
         if (amt != 0 && balance >= amt) {
             balance -= amt;
-            prevTrans = -amt;
+            prevTrans = "Withdrew: " + amt;
         } else if (balance < amt) {
 
             System.out.println("Bank balance insufficient");
@@ -33,13 +33,7 @@ public class Account {
     }
 
     void getPreviousTrans() {
-        if (prevTrans > 0) {
-            System.out.println("Deposited :" + prevTrans);
-        } else if (balance < 0) {
-            System.out.println("Deposited:" + Math.abs(prevTrans));
-        } else {
-            System.out.println("No transaction Occured");
-        }
+        System.out.println(prevTrans);
     }
 
     void menu() {
@@ -101,6 +95,7 @@ public class Account {
             }
 
         } while (option != 'e');
+
         System.out.println("Thank you for using our services.");
         System.out.println("SHJA AZIMI");
 
