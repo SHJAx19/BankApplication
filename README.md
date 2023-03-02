@@ -4,5 +4,6 @@ This is one of the projects i really did with my all efforts on it, and it took 
 
  Here are some ScreenShots for how it works: 
 
-<img class="ScreenShots" width="430" alt="ScreenShot 2" src="https://user-images.githubusercontent.com/110715621/222465898-10fed78b-9954-4d87-9911-463d254b3ab8.png">
-<img lass="ScreenShots"   width="468" alt="Screenshot 1" src="https://user-images.githubusercontent.com/110715621/222465902-30a910dc-c068-4bed-8a40-339fe47f1dfd.png">
+<img width="878" alt="Screenshot 2023-03-02 at 6 15 42 PM" src="https://user-images.githubusercontent.com/110715621/222470180-7c41237a-0632-4676-9610-63ea4a20bec3.png">
+<img width="582" alt="Screenshot 2023-03-02 at 6 16 22 PM" src="https://user-images.githubusercontent.com/110715621/222470202-b093c2c8-48ef-4454-bf9e-23540c7dd576.png">
+<img width="482" alt="Screenshot 2023-03-02 at 6 16 24 PM" src="https://user-images.githubusercontent.com/110715621/222470219-1ca64caa-c508-49b7-9a7a-765a7fa22d6e.png">
