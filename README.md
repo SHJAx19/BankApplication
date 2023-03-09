@@ -1,10 +1,10 @@
-Bank-Application / ATM
+# Bank-Application / ATM
 
 This BankAp is provieds some basic featuers you may always face with when you open a regular bank applicatino.
 Table of Contents
 
 
-Featuers: 
+# Featuers: 
 
 1. Entering Username and ID.
 2. Deposit some amount to your account.
@@ -12,7 +12,7 @@ Featuers:
 4. Checking previous Transaction.
 5. Exiting the Code.
 
-Usage
+# Usage
 
 Instructions and examples on how to use this project. Include screenshots or code snippets if necessary.
 
