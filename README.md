@@ -1,9 +1,17 @@
-# BankApplication
-This is one of the projects i really did with my all efforts on it, and it took almost 4 hours to complete it.
+Bank-Application / ATM
+
+This BankAp is provieds some basic featuers you may always face with when you open a regular bank applicatino.
+Table of Contents
 
 
- Here are some ScreenShots for how it works: 
+Featuers: 
 
-<img width="878" alt="Screenshot 2023-03-02 at 6 15 42 PM" src="https://user-images.githubusercontent.com/110715621/222470180-7c41237a-0632-4676-9610-63ea4a20bec3.png">
-<img width="582" alt="Screenshot 2023-03-02 at 6 16 22 PM" src="https://user-images.githubusercontent.com/110715621/222470202-b093c2c8-48ef-4454-bf9e-23540c7dd576.png">
-<img width="482" alt="Screenshot 2023-03-02 at 6 16 24 PM" src="https://user-images.githubusercontent.com/110715621/222470219-1ca64caa-c508-49b7-9a7a-765a7fa22d6e.png">
+1. Entering Username and ID.
+2. Deposit some amount to your account.
+3. Withdraw.
+4. Checking previous Transaction.
+5. Exiting the Code.
+
+Ahmad Shaja Azimi.
+
+Feel free to customize this template to fit your project's needs. A good README provides clear and concise information to potential users and contributors, so make sure to include all the necessary details.
