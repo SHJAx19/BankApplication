@@ -18,7 +18,7 @@ Instructions and examples on how to use this project. Include screenshots or cod
 
 Ahmad Shaja Azimi.
 
-Feel free to customize this template to fit your project's needs. A good README provides clear and concise information to potential users and contributors, so make sure to include all the necessary details.
+Feel free to customize this template to fit your project's needs.
 
 Here are some ScreenShots of how you can use it.
 
