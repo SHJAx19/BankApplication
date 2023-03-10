@@ -15,7 +15,7 @@ Table of Contents
 # Usage
 
 Instructions and examples on how to use this project. Include screenshots or code snippets if necessary.
-# Autor
+# Author
 Ahmad Shaja Azimi.
 # Customization
 Feel free to customize this template to fit your project's needs.
