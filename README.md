@@ -20,6 +20,7 @@ Ahmad Shaja Azimi.
 # Customization
 Feel free to customize this template to fit your project's needs.
 
+# Preview
 Here are some ScreenShots of how you can use it.
 
 
