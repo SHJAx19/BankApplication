@@ -1,6 +1,6 @@
 # Bank-Application / ATM
 
-This BankAp is provieds some basic featuers you may always face with when you open a regular bank applicatino.
+This BankApp provieds some basic featuers you may always face with when you open a regular bank application.
 Table of Contents
 
 
@@ -15,9 +15,9 @@ Table of Contents
 # Usage
 
 Instructions and examples on how to use this project. Include screenshots or code snippets if necessary.
-
+# autor
 Ahmad Shaja Azimi.
-
+# Customization
 Feel free to customize this template to fit your project's needs.
 
 Here are some ScreenShots of how you can use it.
